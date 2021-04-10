@@ -1,0 +1,10 @@
+.social-icon{
+	padding-left:0;
+}
+.footer{
+	margin-top:100px;
+	position: relative; <!-- HERE -->
+    width: 100%;
+    bottom: 0;
+	background-color:#f8f8f8;   
+}

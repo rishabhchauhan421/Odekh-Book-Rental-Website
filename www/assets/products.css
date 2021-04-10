@@ -1,0 +1,19 @@
+#search_button{
+	border:none;
+}
+#author_list_search{
+	background:white;
+	margin: 0px 0px 0px 15px;
+}
+#searchform{ 
+	border-style: solid;
+    border-width: 1px;
+	border-color: lightgrey;
+}
+#authorSearchInput{
+	border-width:0px;
+}
+#ul{
+	max-height:200px;
+	overflow-y:hidden;
+}
